@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hyper AI",
+  "description": "Hyper-fast, ultra-responsive real-time conversational intelligence. Engineered for peak performance by MD Hasibul Sheikh.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
